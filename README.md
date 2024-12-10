@@ -1,7 +1,7 @@
 # examen_12Dic2024
    # EXAMEN FINAL 12-DIC-24 TURNO NOCHE
-   # REGULAR INCOMPLETO
-   ## TECNICATURA DE DESPACHO // COMERC SEGUROS // RECURSOS DIGITALES
+   # REGULAR cNCOMPLETO
+   ## RECURSOS DIGITALES
    
    ## Plan de Marketing digital tilizando la plataformacon Google Ads.
 
