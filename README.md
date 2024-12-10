@@ -1,6 +1,6 @@
 # examen_12Dic2024
    # EXAMEN FINAL 12-DIC-24 TURNO NOCHE
-   # REGULAR cNCOMPLETO
+   # REGULAR COMPLETO
    ## RECURSOS DIGITALES
    
    ## Plan de Marketing digital tilizando la plataformacon Google Ads.
